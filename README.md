@@ -1,8 +1,8 @@
 # PHYS227 CW 1
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** Michael Seaman, Austin Ayers, Taylor Patti, Andrew Malfavon, Shiva Lotfa
 
-[![Build Status](https://travis-ci.org/chapman-phys227-2016s/cw-1-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/cw-1-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys227-2016s/cw-1-classwork-team.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/cw-1-classwork-team)
 
 **Due date:** 2016/02/09
 
