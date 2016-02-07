@@ -2,7 +2,7 @@
 
 **Author(s):** Michael Seaman, Austin Ayers, Taylor Patti, Andrew Malfavon, Shiva Lotfa
 
-**Anouncemunt:** I wanted to see if I could edit it.
+**Anouncement:** I wanted to see if I could edit it.
 
 [![Build Status](https://travis-ci.org/chapman-phys227-2016s/cw-1-classwork-team.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/cw-1-classwork-team)
 
@@ -32,4 +32,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name(s)\>_
+_\<Andrew Malfavon\>_
