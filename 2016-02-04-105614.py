@@ -6,5 +6,5 @@ def test_endPoints():
     b = 17
     n = 4
     testList = Spacer(a,b,n)
-    assert( testlist[0] == a and testlist[n+1] == b )
+    assert( testList[0] == a and testList[n] == b )
     return
