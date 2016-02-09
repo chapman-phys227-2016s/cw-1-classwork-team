@@ -2,6 +2,8 @@
 
 **Author(s):** Michael Seaman, Austin Ayers, Taylor Patti, Andrew Malfavon, Shiva Lotfa
 
+**Anouncemunt:** I wanted to see if I could edit it.
+
 [![Build Status](https://travis-ci.org/chapman-phys227-2016s/cw-1-classwork-team.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/cw-1-classwork-team)
 
 **Due date:** 2016/02/09
