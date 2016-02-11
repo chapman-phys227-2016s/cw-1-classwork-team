@@ -29,13 +29,11 @@ print trapezint3(math.cos, 0, math.pi, 1000);
 print trapezint3(math.sin, 0, math.pi/2, 1000);
 
 #Unit Tests
-def test_func(x):
+def func(x):
     return x**2;
 
 def test_trapezint():
-    assert trapezint1(test_func, 2, 3) == 13.0/2.0
-    assert trapezint2(test_func, 2, 3) == 51.0/8.0
+    assert trapezint1(func, 2, 3) == 13.0/2.0
+    assert trapezint2(func, 2, 3) == 51.0/8.0
     #used round function solely for testing.
-    assert round(trapezint3(test_func, 2, 5, 100000)) == 39.0
-
-test_trapezint();
+    assert round(trapezint3(func, 2, 5, 100000)) == 39.0
